@@ -1,0 +1,356 @@
+#trusted{
+    position: absolute;
+width: 563px;
+height: 139px;
+left: 234px;
+top: 4344px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 800;
+font-size: 67px;
+line-height: 70px;
+
+color: #2B00D4;
+}
+#brag-bar{
+    position: absolute;
+width: 109px;
+height: 0px;
+left: 234px;
+top: 4670px;
+
+border: 4px solid #2B00D4;
+transform: rotate(90deg);
+}
+#brag-text{
+    position: absolute;
+width: 729px;
+height: 86px;
+left: 323px;
+top: 4625px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 40px;
+
+color: #515151;
+}
+#apple{
+    position:absolute;
+    top:4959px;
+    left:370px;
+    width:100px;
+    height:100px;
+    background-image: url('../images/apple.jpeg');
+    background-size: contain;
+    background-repeat:no-repeat;
+
+}
+#apple-border{
+    position: absolute;
+width: 150px;
+height: 0px;
+left: 470px;
+top: 5009px;
+
+border: 2px solid rgba(207, 207, 207, 0.5);
+transform: rotate(-90deg);
+}
+#google{
+    position:absolute;
+    top:4959px;
+    left:580px;
+    width:200px;
+    height:100px;
+    background-image: url('../images/google.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+
+}
+#google-border{
+    position: absolute;
+width: 150px;
+height: 0px;
+left: 750px;
+top: 5009px;
+
+border: 2px solid rgba(207, 207, 207, 0.5);
+transform: rotate(-90deg);
+}
+#uber{
+    position:absolute;
+    top:4989px;
+    left:880px;
+    width:150px;
+    height:100px;
+    background-image: url('../images/uber.jpeg');
+    background-size: contain;
+    background-repeat:no-repeat;
+
+}
+#uber-border{
+    position: absolute;
+width: 150px;
+height: 0px;
+left: 990px;
+top: 5009px;
+
+border: 2px solid rgba(207, 207, 207, 0.5);
+transform: rotate(-90deg);
+}
+#telus{
+    position:absolute;
+    top:4979px;
+    left:1100px;
+    width:150px;
+    height:100px;
+    background-image: url('../images/telus.png');
+    background-size: contain;
+    background-repeat:no-repeat;
+
+}
+#plus{
+    position:absolute;
+    top:5200px;
+    left:800px;
+    width: 40px;
+    height:40px;
+    background-image: url('../images/plus.jpeg');
+    background-size: contain;
+}
+#logo-div{
+    position: absolute;
+width: 100px;
+height: 100px;
+left: 770px;
+top: 5364px;
+
+background: #3f3470;
+background-image: url('../images/logo.jpeg');
+background-size: contain;
+}
+#smile-text{
+    position: absolute;
+width: 415px;
+height: 24px;
+left: 967px;
+top: 5320px;
+}
+#arrow{
+    position: absolute;
+width: 97px;
+height: 75px;
+left: 899px;
+top: 5354px;
+background-image: url('../images/arrow.jpeg');
+background-size: contain;
+}
+#smile-bottom{
+    position: absolute;
+width: 1123px;
+height: 0px;
+left: 330px;
+top: 5613px;
+
+border: 2px solid #CFCFCF;
+transform: rotate(0.19deg);
+}
+#services{
+    position: absolute;
+width: 261px;
+height: 69px;
+left: 500px;
+top: 5856px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 800;
+font-size: 58px;
+line-height: 70px;
+
+color: #000000;
+}
+#contact-us-2{
+
+position: absolute;
+width: 254.04px;
+height: 67px;
+left: 500px;
+top: 6023px;
+padding:25px;
+box-sizing:border-box;
+background: #2B00D4;
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 23.7292px;
+line-height: 28px;
+color: #FFFFFF;
+text-align: center;
+}
+#list-services{
+    position:absolute;
+    left:1000px;
+    top:5680px;
+    width:750px;
+    height:fit-content;
+    padding:10px;
+    /* background:blue; */
+}
+#list-services div{
+
+border: 1px solid #CFCFCF;
+box-sizing: border-box;
+border-radius: 35px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+padding:20px;
+text-align: center;
+margin:7px 3px;
+color: #545454;
+float: left;
+}
+@media screen and (max-width:450px){
+    #trusted{
+        position: absolute;
+width: 179px;
+height: 54px;
+left: 10%;
+top: 1803px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 800;
+font-size: 20.5009px;
+line-height: 25px;
+
+color: #2B00D4;
+
+    }
+    #brag-bar{
+        position: absolute;
+width: 57.05px;
+height: 0px;
+left: 10%;
+top: 1905px;
+
+border: 1.33496px solid #2B00D4;
+transform: rotate(90deg);
+    }
+    #brag-text{
+        position: absolute;
+width: 248px;
+height: 51px;
+left: 21%;
+top: 1882px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 17px;
+letter-spacing: 0.05em;
+
+color: #515151
+    }
+    #apple-border,#uber-border,#google-border{
+        display:none;
+    }
+    #apple{
+       position:absolute;
+       top:1990px;
+       left:10%;
+    }
+    #google{
+        position:absolute;
+        top:1990px;
+        left:160px;
+     }
+     #uber{
+        position:absolute;
+        top:2150px;
+        left:10%;
+     }
+     #telus{
+        position:absolute;
+        top:2150px;
+        left:210px;
+     }
+     #plus{
+        position:absolute;
+        top:2260px;
+        width:10%;
+        left:45%;
+     }
+     #smile-text{
+        position: absolute;
+        width: 70%;
+        height: 12px;
+        left: 24%;
+        top: 2320.71px;
+        
+        font-family: Handlee;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 13px;
+        letter-spacing: 0.02em;
+        
+        color: #000000;
+     }
+     #arrow{
+         position:absolute;
+         top:2344px;
+         left:60%;
+         width:15%;
+         height:25%;
+         background-repeat: no-repeat;
+         background-size: contain;
+     }
+     #logo-div{
+         position:absolute;
+         top:2360px;
+         width:10%;
+         left:45%;
+         height:5%;
+         background-repeat: no-repeat;
+         
+     }
+     #smile-bottom{
+         top:2420px;
+         width:70%;
+         left:15%;
+     }
+     #services{
+         top:2450px;
+         left:10%;
+         font-size:20px;
+     }
+     #list-services{
+         top:2510px;
+         left:2.5%;
+         width:95%;
+     }
+     #list-services div{
+         font-size: 12px;
+         padding:7px;
+         margin:7px 1px;
+     }
+     #contact-us-2{
+         display: none;
+         top:2950px;
+         left:10%;
+         width:35%;
+         font-size:13px;
+         height:6%;
+         padding:11px;
+         margin-top:60px;
+         margin-bottom:10px;
+     }
+}

@@ -1,0 +1,588 @@
+#rect1{
+    position: absolute;
+width: 982px;
+height: 519px;
+top: 1400px;
+left:400px;
+
+background: linear-gradient(180deg, #52225C 0%, #632C6D 100%);
+}
+#talent-logo{
+ 
+position: absolute;
+width: 196px;
+height: 66px;
+left: 455px;
+top: 1454px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 66px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+   
+}
+#talent-1{
+    position: absolute;
+width: 370px;
+height: 308px;
+left: 984px;
+top: 1562px;
+
+background: url('../images/talent1.jpeg');
+background-size: contain;
+}
+#talent-2{
+    position: absolute;
+width: 294px;
+height: 262px;
+left: 813px;
+top: 1439px;
+
+background: url('../images/talent2.jpeg');
+background-size: contain;
+}
+#talent-text{
+    position: absolute;
+width: 338px;
+height: 131px;
+left: 435px;
+top: 1607px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 29px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+#talent-links{
+    position: absolute;
+    top:1800px;
+    left:435px;
+}
+#talent-links div{
+    width: fit-content;
+    margin:0 6px;
+    height: 42px;
+    background: rgba(196, 196, 196, 0.3);
+    font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+float:left;
+text-align: center;
+letter-spacing: 0.02em;
+box-sizing: border-box;
+padding:10px;
+color: #FFFFFF;
+}
+
+#rect-2{
+position: absolute;
+width: 982px;
+height: 519px;
+top: 2000px;
+left:400px;
+background: #E36340;
+}
+
+#longwalks-logo{
+    position: absolute;
+width: 181px;
+height: 65px;
+left: 455px;
+top: 2070px;
+
+font-family: Rum Raisin;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 65px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+#longwalks-text{
+    position: absolute;
+width: 542px;
+height: 141px;
+left: 455px;
+top: 2230px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 34px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+#longwalks-1{
+    position: absolute;
+width: 300px;
+height: 250px;
+left: 990px;
+top: 2150px;
+background-repeat: no-repeat;
+background: url('../images/longwalks1.jpeg');
+background-size: contain;
+transform: rotate(11deg);
+}
+#longwalks-links{
+    position: absolute;
+    top:2400px;
+    left:455px;
+}
+#longwalks-links div{
+    width: fit-content;
+    margin:0 6px;
+    height: 42px;
+    background: rgba(196, 196, 196, 0.3);
+    font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+float:left;
+text-align: center;
+letter-spacing: 0.02em;
+box-sizing: border-box;
+padding:10px;
+color: #FFFFFF;
+}
+#rect3{
+    position: absolute;
+width: 982px;
+height: 523px;
+left: 400px;
+top: 2638px;
+background: #664687;
+}
+#telus-logo{
+    position:absolute;
+    left: 455px;
+top: 2700px;
+color:white;
+font-weight: bold;
+font-size:40px;
+}
+#telus-text{
+    position: absolute;
+width: 423px;
+height: 106px;
+left: 455px;
+top: 2850px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 30px;
+
+color: #FFFFFF;
+}
+#telos1{
+    position: absolute;
+width: 300px;
+height:400px;
+left: 1000px;
+top: 2802.19px;
+
+background: url('../images/telos1.jpeg');
+background-size: contain;
+background-repeat: no-repeat;
+}
+#telus-links{
+    position: absolute;
+    top:3040px;
+    left:455px;
+}
+#telus-links div{
+    width: fit-content;
+    margin:0 6px;
+    height: 42px;
+    background: rgba(196, 196, 196, 0.3);
+    font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+float:left;
+text-align: center;
+letter-spacing: 0.02em;
+box-sizing: border-box;
+padding:10px;
+color: #FFFFFF;
+}
+#rect-4{
+    position: absolute;
+width: 982px;
+height: 537px;
+left: 400px;
+top: 3276px;
+
+background: #533863;
+}
+#adobe-logo{
+    position: absolute;
+    top:3376px;
+    left:455px;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+#adobe-text{
+    position: absolute;
+    width: 423px;
+    height: 106px;
+    left: 455px;
+    top: 3510px;
+    
+    font-family: Red Hat Display;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 30px;
+    
+    color: #FFFFFF;
+}
+#adobe-1{
+    position: absolute;
+width: 388px;
+height: 314px;
+left: 954px;
+top: 3400px;
+
+background: url('../images/adobe1.jpeg');
+background-size: contain;
+background-repeat: no-repeat;
+}
+#adobe-links{
+    position: absolute;
+    top:3700px;
+    left:455px;
+}
+#adobe-links div{
+    width: fit-content;
+    margin:0 6px;
+    height: 42px;
+    background: rgba(196, 196, 196, 0.3);
+    font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 26px;
+float:left;
+text-align: center;
+letter-spacing: 0.02em;
+box-sizing: border-box;
+padding:10px;
+color: #FFFFFF;
+}
+#contact-us{
+    position: absolute;
+width: 254.04px;
+height: 67px;
+left: 640px;
+top: 3928px;
+
+background: #2B00D4;
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 23.7292px;
+line-height: 28px;
+/* identical to box height */
+box-sizing:border-box;
+padding:20px;
+text-align: center;
+color: #FFFFFF;
+}
+#view-all{
+    position: absolute;
+width: 183px;
+height: 67px;
+left: 949px;
+top: 3928px;
+padding: 20px;
+background: #FFFFFF;
+border: 1px solid #CBCBCB;
+box-sizing: border-box;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 23.7292px;
+line-height: 28px;
+/* identical to box height */
+
+text-align: center;
+
+color: #2B00D4;
+}
+#view-arrow{
+    position: absolute;
+width: 77px;
+height: 67px;
+left: 1132px;
+top: 3928px;
+background:url('../images/view-arrow.jpeg');
+background-repeat: no-repeat;
+border: 1px solid #CBCBCB;
+box-sizing: border-box;
+background-size: contain;
+}
+#page2-bottom{
+    position: absolute;
+width: 923px;
+height: 0px;
+left: 459px;
+top: 4123px;
+
+border: 2px solid #CFCFCF;
+transform: rotate(0.19deg);
+}
+@media screen and (max-width:450px){
+    #rect1{
+        position: absolute;
+width: 80%;
+height: 239px;
+left: 10%;
+top: 780px;
+    }
+    #talent-logo{
+        position: absolute;
+width: 66.68px;
+height: 22.45px;
+left: 15%;
+top: 800px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 17.0112px;
+line-height: 23px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+    }
+    #talent-text{
+        position: absolute;
+width: 200px;
+height: 70px;
+left: 15%;
+top: 840px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 17px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+    }
+    #talent-2{
+        display:none;
+    }
+    #talent-1{
+        position: absolute;
+width: 27%;
+height: 27%;
+left: 58%;
+top: 910px;
+background-repeat: no-repeat;
+background-size:contain;
+    }
+    #talent-links{
+        display: none;
+    }
+    #rect-2{
+        position: absolute;
+width: 80%;
+height: 254px;
+left: 10%;
+top: 1040px;
+    }
+    #longwalks-logo{
+        position: absolute;
+width: 74px;
+height: 20px;
+left: 15%;
+top: 1060px;
+
+font-family: Rum Raisin;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.02em;
+
+    }
+    #longwalks-text{
+        position: absolute;
+width: 244px;
+height: 84px;
+left: 15%;
+top: 1100px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 19px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+    }
+
+    #longwalks-1{
+        position: absolute;
+width: 32%;
+height: 32%;
+left: 48%;
+top: 1180px;
+background-repeat: no-repeat;
+background-size:contain;
+    }
+    #longwalks-links{
+        display:none;
+    }
+    #rect3{
+        position: absolute;
+width: 80%;
+height: 158.64px;
+left: 10%;
+top: 1320px;
+    }
+    #telus-logo{
+
+position: absolute;
+width: 141.84px;
+height: 108.13px;
+left: 15%;
+top: 1340px;
+font-size:20px;
+
+    }
+    #telus-text{
+        position: absolute;
+width: 205px;
+height: 72px;
+left: 15%;
+top: 1380px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+    }
+    #telus-links{
+        display: none;
+    }
+    #telos1{
+        display: none;
+    }
+    #rect-4{
+        position: absolute;
+        width: 80%;
+        height: 162.88px;
+        left: 10%;
+        top: 1500px;
+      }
+      #adobe-logo{
+        position: absolute;
+        left: 15%;
+        top:1520px;
+        font-size:20px;
+      }
+      #adobe-text{
+        position: absolute;
+        width: 205px;
+        height: 72px;
+        left: 15%;
+        top: 1560px;
+        
+        font-family: Red Hat Display;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        
+      }
+      #adobe-1{
+          display: none;
+      }
+      #adobe-links{
+          display:none;
+      }
+
+    #view-all{
+        position: absolute;
+width: 20%;
+height: 26.79px;
+left: 40%;
+top: 1678px;
+
+background: #FFFFFF;
+border: 0.399785px solid #CBCBCB;
+box-sizing: border-box;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 9.48658px;
+line-height: 11px;
+/* identical to box height */
+
+text-align: center;
+padding: 8px 0;
+color: #2B00D4;
+    }
+    #view-arrow{
+        position: absolute;
+width: 6%;
+height: 26.79px;
+left: 60%;
+top: 1678px;
+    }
+    #contact-us{
+        top:1720px;
+        width: 26%;
+height: 26.79px;
+left: 40%;
+font-size: 9.48658px;
+padding:6px;
+    }
+    #page2-bottom{
+        position: absolute;
+width: 70%;
+height: 0px;
+left: 15%;
+top: 1759px;
+
+border: 0.799571px solid #CFCFCF;
+transform: rotate(0.19deg);
+    }
+}
