@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/orizon-clone/static/css/main.7f9587eb.chunk.css",
-    "main.js": "/orizon-clone/static/js/main.d0981cb0.chunk.js",
-    "main.js.map": "/orizon-clone/static/js/main.d0981cb0.chunk.js.map",
+    "main.css": "/orizon-clone/static/css/main.b7ea415f.chunk.css",
+    "main.js": "/orizon-clone/static/js/main.ad55c454.chunk.js",
+    "main.js.map": "/orizon-clone/static/js/main.ad55c454.chunk.js.map",
     "runtime-main.js": "/orizon-clone/static/js/runtime-main.6fd8e6eb.js",
     "runtime-main.js.map": "/orizon-clone/static/js/runtime-main.6fd8e6eb.js.map",
     "static/js/2.8726aca2.chunk.js": "/orizon-clone/static/js/2.8726aca2.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.79af7212.chunk.js": "/orizon-clone/static/js/3.79af7212.chunk.js",
     "static/js/3.79af7212.chunk.js.map": "/orizon-clone/static/js/3.79af7212.chunk.js.map",
     "index.html": "/orizon-clone/index.html",
-    "static/css/main.7f9587eb.chunk.css.map": "/orizon-clone/static/css/main.7f9587eb.chunk.css.map",
+    "static/css/main.b7ea415f.chunk.css.map": "/orizon-clone/static/css/main.b7ea415f.chunk.css.map",
     "static/js/2.8726aca2.chunk.js.LICENSE.txt": "/orizon-clone/static/js/2.8726aca2.chunk.js.LICENSE.txt",
     "static/media/page2.css": "/orizon-clone/static/media/telos1.1a0d09bd.jpeg",
     "static/media/page3.css": "/orizon-clone/static/media/google.9d00820e.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.6fd8e6eb.js",
     "static/js/2.8726aca2.chunk.js",
-    "static/css/main.7f9587eb.chunk.css",
-    "static/js/main.d0981cb0.chunk.js"
+    "static/css/main.b7ea415f.chunk.css",
+    "static/js/main.ad55c454.chunk.js"
   ]
 }
